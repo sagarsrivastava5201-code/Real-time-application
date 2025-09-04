@@ -27,3 +27,5 @@ The future scope of this chat application is vast. By integrating Node.js, Socke
 
 In conclusion, this Real-Time Chat Application built using HTML, CSS, and JavaScript serves as an excellent example of how powerful client-side technologies can be when combined effectively. It is a lightweight, browser-based project that provides a real-world feel of chatting applications. Even though it does not support multi-user connectivity yet, it lays the groundwork for future development and gives learners a strong understanding of real-time interaction principles in web development.
 
+# output 
+<img width="1857" height="902" alt="Image" src="https://github.com/user-attachments/assets/bb19b175-c144-4f4a-b93b-d928a179df3b" />
